@@ -1,0 +1,20 @@
+{
+    "Author": "kbotha",
+    "ContentSize": 7573,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-vm-metrics/master/AzVM-Metrics.ps1",
+    "DownloadCount": 604,
+    "Id": "Azure-VM-Metrics-7f394372",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 246,
+    "RaterCount": 4,
+    "Rating": 5.0,
+    "ReleaseDate": "2019-8-14T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "In some cases you would like to get performance metrics easily from Azure VM\u2019s that gives you a holistic view of\u00a0mutiple machines. There are several ways to do this and I thought I will provide a scriptable repeatable way.The script will retrieve the information from azure and dr",
+    "Title": "Azure VM Metrics",
+    "UpdatedDate": "2019-8-15T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-vm-metrics",
+    "UserTags": "azure vm, Azure Metrics, Azure Performance"
+}
